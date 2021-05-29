@@ -1748,7 +1748,8 @@ ul {
       font-size: 20px; } }
 
 .account-form .form-group {
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  text-align: left; }
   .account-form .form-group input {
     width: 100%;
     -webkit-border-radius: 4px;
