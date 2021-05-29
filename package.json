@@ -1,0 +1,22 @@
+{
+  "name": "music-festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscar-llury/festival-music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscar-llury/festival-music/issues"
+  },
+  "homepage": "https://github.com/oscar-llury/festival-music#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
