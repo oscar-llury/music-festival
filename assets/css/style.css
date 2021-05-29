@@ -1898,7 +1898,9 @@ ul {
     .header-wrapper {
       position: relative; } }
   .header-wrapper .logo a img {
-    max-width: 100%; }
+    max-width: 100%;
+    width: 70px;
+    height: 70px; }
   @media (max-width: 575px) {
     .header-wrapper .logo {
       width: 160px; } }
