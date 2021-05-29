@@ -9,10 +9,10 @@ var gulpif = require('gulp-if');
 
 var Paths = {
   HERE: './',
-  CSS: './css/',
-  SCSS_TOOLKIT_SOURCES: './css/scss/styles.scss',
-  SCSS: './css/scss/**/**',
-  START: './login.html'
+  CSS: './assets/css/',
+  SCSS_TOOLKIT_SOURCES: './assets/sass/style.scss',
+  SCSS: './assets/sass/**/**',
+  START: './index.html'
 };
 
 // commando con --production para prod.
