@@ -175,6 +175,9 @@
 .header-contact{
     background-image: url(../images/header/contact.jpg);
 }
+.header-mainStages{
+    background-image: url(../images/header/mainstage.jpg);
+}
 
 .page-header {
     @extend %rel;
@@ -1849,7 +1852,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba($color: #000241, $alpha: .3);
+    /*background: rgba($color: #000241, $alpha: .3);*/
 }
 
 // post item
