@@ -1,7 +1,9 @@
 /*======== Banner css start here  =========*/
 .banner-section {
-    background: url(../images/banner/bg.jpg);
+    background-repeat: no-repeat;
+    background-image: url(../images/home/home-background.jpg);
     background-size: cover;
+    background-position-y: bottom;
 
     .banner-wrapper {
         padding-top: 150px;

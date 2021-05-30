@@ -41,7 +41,7 @@
             @extend %abs;
             width: 210px;
             height: 210px;
-            background: url(../images/shape/header.png);
+            background-image: url(../images/shape/header.png);
             background-size: contain;
             background-repeat: no-repeat;
             top: -85px;
@@ -58,10 +58,17 @@
         @extend %mb-0;
     }
 }
+/* scroll bar */
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: transparent;
+}
 
-.bg-image {
-    background: url("../images/event/01.png");
-    background-size: cover;
+::-webkit-scrollbar-thumb {
+    background: #646464;
+    border-radius: 100px;
+}
+::-webkit-scrollbar-track {
 }
 
 @include breakpoint(lg) {
@@ -75,7 +82,7 @@
         &:before {
             position: absolute;
             content: "";
-            background: url("../images/shape/01.png");
+            background-image: url(../images/shape/01.png);
             width: 200px;
             height: 200px;
             background-size: cover;
@@ -86,7 +93,7 @@
         &:after {
             position: absolute;
             content: "";
-            background: url("../images/shape/03.png");
+            background-image: url(../images/shape/03.png);
             width: 200px;
             height: 200px;
             background-size: cover;
@@ -105,7 +112,7 @@
         &:before {
             position: absolute;
             content: "";
-            background: url("../images/shape/01.png");
+            background-image: url(../images/shape/01.png);
             width: 200px;
             height: 200px;
             background-size: cover;
@@ -115,7 +122,7 @@
         &:after {
             position: absolute;
             content: "";
-            background: url(../images/shape/02.png);
+            background-image: url(../images/shape/02.png);
             width: 100px;
             height: 100px;
             background-size: cover;
@@ -134,7 +141,7 @@
         &:before {
             position: absolute;
             content: "";
-            background: url("../images/shape/01.png");
+            background-image: url(../images/shape/01.png);
             width: 200px;
             height: 200px;
             background-size: cover;
@@ -145,7 +152,7 @@
         &:after {
             position: absolute;
             content: "";
-            background: url(../images/shape/03.png);
+            background-image: url(../images/shape/03.png);
             width: 200px;
             height: 200px;
             background-size: cover;
@@ -156,18 +163,42 @@
 }
 
 /* @@@@@@@@@@@@@  Page Header Section Start Here  @@@@@@@@@@@@@@ */
+.header-tickets{
+    background-image: url(../images/header/tickets.jpg);
+}
+.header-gallery{
+    background-image: url(../images/header/gallery.jpg);
+}
+.header-allStages{
+    background-image: url(../images/header/allstages.jpg);
+}
+.header-contact{
+    background-image: url(../images/header/contact.jpg);
+}
+
 .page-header {
     @extend %rel;
     padding-top: 210px;
     padding-bottom: 110px;
-    background: url(../images/header/01.jpg);
     background-size: cover;
+    background-position: bottom;
 
     @include breakpoint(lg) {
         padding-top: 245px;
         padding-bottom: 150px;
     }
-
+    .header-tickets{
+        background-image: url(../images/header/tickets.jpg);
+    }
+    .header-gallery{
+        background-image: url(../images/header/gallery.jpg);
+    }
+    .header-allStages{
+        background-image: url(../images/header/01.jpg);
+    }
+    .header-contact{
+        background-image: url(../images/header/contact.jpg);
+    }
     .page-header-content-area {
         @extend %rel;
         z-index: 1;
@@ -189,7 +220,7 @@
                 @extend %abs;
                 width: 210px;
                 height: 210px;
-                background: url(../images/shape/header.png);
+                background-image: url(../images/shape/header.png);
                 background-size: contain;
                 background-repeat: no-repeat;
                 top: -85px;
@@ -295,7 +326,7 @@
                 left: -20px;
                 width: 250px;
                 height: 250px;
-                background: url(../images/speakers/bg.png);
+                background-image: url(../images/speakers/bg.png);
                 z-index: -1;
                 background-size: cover;
             }
@@ -410,7 +441,7 @@
 
             .speaker-content-inner {
                 @include breakpoint(sm) {
-                    background: url(../images/speakers/speaker-2/shape-4.png);
+                    background-image: url(../images/speakers/speaker-2/shape-4.png);
                     background-size: contain;
                     background-repeat: no-repeat;
                     background-position: 10px 0px;
@@ -418,8 +449,7 @@
                     visibility: hidden;
                     transition: all .3s linear;
                     transition-delay: .2s;
-                    padding: 40px;
-                    padding-right: 70px;
+                    padding: 40px 70px 40px 40px;
                 }
 
 
@@ -440,14 +470,12 @@
 
                 @include breakpoint(lg) {
                     @include breakpoint(max-xl) {
-                        padding: 30px;
-                        padding-right: 23px;
+                        padding: 30px 23px 30px 30px;
                     }
                 }
 
                 @include breakpoint(xxl) {
-                    padding: 40px;
-                    padding-right: 70px;
+                    padding: 40px 70px 40px 40px;
                 }
 
                 h6 {
@@ -708,10 +736,10 @@
 //pricing-plan-item
 .pricing-item {
     .pricing-inner {
-        box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.1);
 
         .pricing-header {
-            background: url(../images/pricing-plan/01.svg);
+            background-image: url(../images/tickets/01.svg);
             background-size: cover;
             background-position: center;
             padding: 50px;
@@ -879,7 +907,7 @@
 //News Item
 .news-item {
     .news-inner {
-        box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.1);
         border-radius: 4px;
         @extend %hidden;
 
@@ -1041,7 +1069,7 @@
                 padding: 0;
 
                 a {
-                    padding: 15px 0px;
+                    padding: 15px 0;
                     color: $white-color;
 
                     i {
@@ -1297,10 +1325,9 @@
             padding: 25px 15px;
 
             .recipe-item {
-                border: 1px dotted $border-color;
-                border-width: 1px;
-                border-top: none;
-                border-right: none;
+                border: 1px none;
+                border-bottom-style: dotted;
+                border-left-style: dotted;
                 margin: 5px;
             }
         }
@@ -1430,7 +1457,11 @@
             width: 35%;
         }
     }
-
+    @include breakpoint(xl) {
+        &:after {
+            width: 37%;
+        }
+    }
     @include breakpoint(xxl) {
         &:after {
             width: 39%;
@@ -1478,55 +1509,6 @@
         margin-left: auto;
         display: block;
         text-align: right;
-    }
-}
-
-.blog-quote {
-    background: $theme-color;
-    margin: 0;
-    padding: 60px 40px 50px;
-    @include border-radius(7px 7px 0 0);
-
-    &::before {
-        content: "";
-        display: block;
-        width: 84px;
-        height: 60px;
-        background: url(../images/qoute2.png) no-repeat center center;
-        background-size: contain;
-        margin: 0 auto 30px;
-    }
-
-    .quotes {
-        color: $white-color;
-        font-size: 20px;
-        line-height: 36px;
-        font-style: italic;
-        font-weight: 500;
-        font-family: $font-family1;
-    }
-
-    @include breakpoint(max-md) {
-        padding: 50px 30px 40px;
-
-        .quotes {
-            font-size: 18px;
-            line-height: 30px;
-        }
-    }
-
-    @include breakpoint(max-sm) {
-        padding: 30px 20px 25px;
-
-        &::before {
-            height: 45px;
-            margin-bottom: 15px;
-        }
-
-        .quotes {
-            font-size: 16px;
-            line-height: 28px;
-        }
     }
 }
 
@@ -1755,7 +1737,6 @@
     animation: lab_top_up 5s linear infinite;
     @include transition($transition);
     border: 2px solid $primary-color;
-    z-index: 1;
 
     i {
         color: $white-color;
@@ -2167,7 +2148,7 @@
             width: 72px;
             height: 72px;
             display: inline-block;
-            padding: 0px;
+            padding: 0;
 
             span {
                 position: absolute;
@@ -2247,7 +2228,7 @@
 /*Account Section Starts Here*/
 .account-wrapper {
     border-radius: 8px;
-    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.06);
     background: $primary-color;
     padding: 60px 80px;
     text-align: center;
@@ -2300,7 +2281,7 @@
             width: 100%;
             @include border-radius(4px);
             background: rgba($white-color, $alpha: .10);
-            box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.06);
             padding: 10px 15px;
             color: $white-color;
             border: none;
@@ -2447,7 +2428,7 @@
             padding: 60px;
             @extend %text-center;
             @extend %bg-primary;
-            box-shadow: 0px 0px 10px 0px rgba($theme-color, $alpha: .20);
+            box-shadow: 0 0 10px 0 rgba($theme-color, $alpha: .20);
             border-radius: 5px;
 
 
