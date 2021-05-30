@@ -105,12 +105,21 @@
             }
         }
     }
-
-    .lab-btn {
-        margin-top: 60px;
+    .swiper-wrapper{
+        align-items: center;
     }
 }
+.bg-image-schedule {
+    background-image: url(../images/home/schedule.jpg);
+    background-size: cover;
+    background-position: center;
+}
 
+.bg-image-sponsors {
+    background-image: url(../images/home/sponsors.jpg);
+    background-size: cover;
+    background-position: center;
+}
 /*Sponsor sectin end here*/
 
 /*======== Gift Sectin start here =========*/
@@ -120,7 +129,7 @@
 
         &:after {
             @extend %abs;
-            background: url(../images/shape/01.png);
+            background-image: url(../images/shape/01.png);
             width: 200px;
             height: 200px;
             background-size: cover;

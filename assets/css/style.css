@@ -32,19 +32,19 @@ Tags: bootstrap, program, event, event schedule, arrangment, event site, officia
 @@@@@@@@@@@@@@@@@@@@@@ */
 @import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 /* @@@@@@@@@@@@@  Extend Property  @@@@@@@@@@@@@@ */
-.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section, .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags, .authors, .comments .comment-list .comment .com-content .com-title, .comment-respond .add-comment .comment-form, .shop-cart .section-wrapper .cart-top table tbody tr td.product-item, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li, .shop-single .product-details .post-content form, .shop-single .review .review-nav, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta .posted-on, .shop-single .review .review-content .review-showing .client-review .review-form form .rating, .shop-single .review .review-content .review-showing .client-review .review-form form .rating ul, .shop-product-wrap .product-item .product-thumb .product-action-link,
-.shop-product-wrap .product-list-item .product-thumb .product-action-link, .shop-product-wrap .product-list-item, .gallery-section .grid .grid-item .grid-inner .grid-content, .contact-item, .contact-form-wrapper .contact-form form.comment-form, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
+.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .shop-cart .section-wrapper .cart-top table tbody tr td.product-item, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li, .shop-single .product-details .post-content form, .shop-single .review .review-nav, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta .posted-on, .shop-single .review .review-content .review-showing .client-review .review-form form .rating, .shop-single .review .review-content .review-showing .client-review .review-form form .rating ul, .shop-product-wrap .product-item .product-thumb .product-action-link,
+.shop-product-wrap .product-list-item .product-thumb .product-action-link, .shop-product-wrap .product-list-item, .gallery-section .grid .grid-item .grid-inner .grid-content, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
   display: flex;
   flex-wrap: wrap; }
 
-.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .post-item-2 .post-inner .post-thumb-container, .post-item-2 .post-inner .post-thumb, .post-item-2 .post-inner .post-content .more-com .text-btn, .post-item-2 .post-inner .post-content .qute-content blockquote, .post-item-2 .post-inner .post-content .meta-post p span, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select select, .shop-single .product-details .product-thumb .gallery-top, .shop-single .product-details .post-content form .select-product, .shop-single .product-details .post-content form .select-product select, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5, .shop-single .review .review-content .description .post-item .post-content ul li, .shop-product-wrap .product-item .product-thumb,
+.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select select, .shop-single .product-details .product-thumb .gallery-top, .shop-single .product-details .post-content form .select-product, .shop-single .product-details .post-content form .select-product select, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5, .shop-single .review .review-content .description .post-item .post-content ul li, .shop-product-wrap .product-item .product-thumb,
 .shop-product-wrap .product-list-item .product-thumb, .gallery-section .grid .grid-item .grid-inner, .scholar-single-section .section-wrapper .section-inner {
   position: relative; }
 
 .section-header h2:after, .page-header .page-header-content-area h4:after, .page-header .page-header-content-area ul li a::after, .speaker-item .speaker-inner .speaker-thumb:after, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape .shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb-2, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb-2, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i:after, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon:after, .widget.widget-search .search-wrapper button, .pluse_1,
 .pluse_2, .pluse_1::after, .pluse_1::before,
 .pluse_2::after,
-.pluse_2::before, .overlay, .post-item .post-inner .post-thumb .meta-date, .post-item .post-inner .post-content .meta-post p span::after, .header-section, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn, .header-bar span, .menu-item-has-children > a::after, .menu-item-has-children > a::before, .about-section .about-image .play-btn, .event-gift-section .image-part:after, .post-item-2 .post-inner .post-thumb-container .thumb-nav, .post-item-2 .post-inner .post-thumb .play-btn, .post-item-2 .post-inner .post-thumb .pluse_2, .post-item-2 .post-inner .post-thumb .pluse_2::after, .post-item-2 .post-inner .post-thumb .pluse_2::before, .post-item-2 .post-inner .post-thumb .meta-date, .post-item-2 .post-inner .post-content .more-com .text-btn i, .post-item-2 .post-inner .post-content .qute-content blockquote::before, .post-item-2 .post-inner .post-content .qute-content blockquote::after, .post-item-2 .post-inner .post-content .meta-post p span::after, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select .select-icon, .shop-single .product-details .product-thumb .gallery-top .shop-navigation, .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form .select-product i, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::before, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::after, .shop-single .review .review-content .description .post-item .post-content ul li::before, .shop-product-wrap .product-item .product-thumb::after,
+.pluse_2::before, .overlay, .post-item .post-inner .post-thumb .meta-date, .post-item .post-inner .post-content .meta-post p span::after, .header-section, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn, .header-bar span, .menu-item-has-children > a::after, .menu-item-has-children > a::before, .about-section .about-image .play-btn, .event-gift-section .image-part:after, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select .select-icon, .shop-single .product-details .product-thumb .gallery-top .shop-navigation, .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form .select-product i, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::before, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::after, .shop-single .review .review-content .description .post-item .post-content ul li::before, .shop-product-wrap .product-item .product-thumb::after,
 .shop-product-wrap .product-list-item .product-thumb::after, .shop-product-wrap .product-item .product-thumb .product-action-link,
 .shop-product-wrap .product-list-item .product-thumb .product-action-link, .gallery-section .grid .grid-item .grid-inner:before, .gallery-section .grid .grid-item .grid-inner .grid-content {
   position: absolute;
@@ -54,11 +54,11 @@ Tags: bootstrap, program, event, event schedule, arrangment, event site, officia
 .schedule-section,
 .speakers-section,
 .sponsor-section,
-.footer-section, .post-item-2 .post-inner .post-thumb-container, .post-item-2 .post-inner .post-thumb, .comments .comment-list .comment .com-content, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon, .shop-single .product-details, .shop-single .product-details .product-thumb .gallery-thumbs .shop-item .shop-thumb, .shop-single .review .review-content .review-showing .content li .post-thumb, .widget .widget-header, .shop-product-wrap .product-item .product-thumb,
+.footer-section, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon, .shop-single .product-details, .shop-single .product-details .product-thumb .gallery-thumbs .shop-item .shop-thumb, .shop-single .review .review-content .review-showing .content li .post-thumb, .widget .widget-header, .shop-product-wrap .product-item .product-thumb,
 .shop-product-wrap .product-list-item .product-thumb, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-thumb {
   overflow: hidden; }
 
-.lab-btn, .header-bar, .comment-respond .add-comment .comment-form .lab-btn, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon input[type="submit"], .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout input[type="submit"], .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form button, .shop-single .review .review-nav li, .shop-single .review .review-content .review-showing .client-review .review-form form button, .contact-form-wrapper .contact-form form.comment-form button.lab-btn {
+.lab-btn, .header-bar, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon input[type="submit"], .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout input[type="submit"], .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form button, .shop-single .review .review-nav li, .shop-single .review .review-content .review-showing .client-review .review-form form button, .contact-form-wrapper .contact-form form.comment-form button.lab-btn {
   cursor: pointer; }
 
 .news-item .news-inner .news-content h6 a, .widget.widget-post ul.widget-wrapper li .post-content h6, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-content h6 a {
@@ -75,7 +75,7 @@ Tags: bootstrap, program, event, event schedule, arrangment, event site, officia
   overflow: hidden;
   text-overflow: ellipsis; }
 
-.pricing-item .pricing-inner .pricing-header h3, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item, .comments .comment-list .comment .com-content .com-title {
+.pricing-item .pricing-inner .pricing-header h3, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item {
   margin-bottom: 10px; }
 
 /*!
@@ -113,19 +113,19 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
 #Footer
 --------------------------------------------------------------*/
 /* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
-.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section, .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags, .authors, .comments .comment-list .comment .com-content .com-title, .comment-respond .add-comment .comment-form, .shop-cart .section-wrapper .cart-top table tbody tr td.product-item, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li, .shop-single .product-details .post-content form, .shop-single .review .review-nav, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta .posted-on, .shop-single .review .review-content .review-showing .client-review .review-form form .rating, .shop-single .review .review-content .review-showing .client-review .review-form form .rating ul, .shop-product-wrap .product-item .product-thumb .product-action-link,
-.shop-product-wrap .product-list-item .product-thumb .product-action-link, .shop-product-wrap .product-list-item, .gallery-section .grid .grid-item .grid-inner .grid-content, .contact-item, .contact-form-wrapper .contact-form form.comment-form, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
+.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .shop-cart .section-wrapper .cart-top table tbody tr td.product-item, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li, .shop-single .product-details .post-content form, .shop-single .review .review-nav, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta, .shop-single .review .review-content .review-showing .content li .post-content .entry-meta .posted-on, .shop-single .review .review-content .review-showing .client-review .review-form form .rating, .shop-single .review .review-content .review-showing .client-review .review-form form .rating ul, .shop-product-wrap .product-item .product-thumb .product-action-link,
+.shop-product-wrap .product-list-item .product-thumb .product-action-link, .shop-product-wrap .product-list-item, .gallery-section .grid .grid-item .grid-inner .grid-content, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
   display: flex;
   flex-wrap: wrap; }
 
-.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .post-item-2 .post-inner .post-thumb-container, .post-item-2 .post-inner .post-thumb, .post-item-2 .post-inner .post-content .more-com .text-btn, .post-item-2 .post-inner .post-content .qute-content blockquote, .post-item-2 .post-inner .post-content .meta-post p span, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select select, .shop-single .product-details .product-thumb .gallery-top, .shop-single .product-details .post-content form .select-product, .shop-single .product-details .post-content form .select-product select, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5, .shop-single .review .review-content .description .post-item .post-content ul li, .shop-product-wrap .product-item .product-thumb,
+.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select select, .shop-single .product-details .product-thumb .gallery-top, .shop-single .product-details .post-content form .select-product, .shop-single .product-details .post-content form .select-product select, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5, .shop-single .review .review-content .description .post-item .post-content ul li, .shop-product-wrap .product-item .product-thumb,
 .shop-product-wrap .product-list-item .product-thumb, .gallery-section .grid .grid-item .grid-inner, .scholar-single-section .section-wrapper .section-inner {
   position: relative; }
 
 .section-header h2:after, .page-header .page-header-content-area h4:after, .page-header .page-header-content-area ul li a::after, .speaker-item .speaker-inner .speaker-thumb:after, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape .shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb-2, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb-2, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i:after, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon:after, .widget.widget-search .search-wrapper button, .pluse_1,
 .pluse_2, .pluse_1::after, .pluse_1::before,
 .pluse_2::after,
-.pluse_2::before, .overlay, .post-item .post-inner .post-thumb .meta-date, .post-item .post-inner .post-content .meta-post p span::after, .header-section, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn, .header-bar span, .menu-item-has-children > a::after, .menu-item-has-children > a::before, .about-section .about-image .play-btn, .event-gift-section .image-part:after, .post-item-2 .post-inner .post-thumb-container .thumb-nav, .post-item-2 .post-inner .post-thumb .play-btn, .post-item-2 .post-inner .post-thumb .pluse_2, .post-item-2 .post-inner .post-thumb .pluse_2::after, .post-item-2 .post-inner .post-thumb .pluse_2::before, .post-item-2 .post-inner .post-thumb .meta-date, .post-item-2 .post-inner .post-content .more-com .text-btn i, .post-item-2 .post-inner .post-content .qute-content blockquote::before, .post-item-2 .post-inner .post-content .qute-content blockquote::after, .post-item-2 .post-inner .post-content .meta-post p span::after, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select .select-icon, .shop-single .product-details .product-thumb .gallery-top .shop-navigation, .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form .select-product i, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::before, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::after, .shop-single .review .review-content .description .post-item .post-content ul li::before, .shop-product-wrap .product-item .product-thumb::after,
+.pluse_2::before, .overlay, .post-item .post-inner .post-thumb .meta-date, .post-item .post-inner .post-content .meta-post p span::after, .header-section, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn, .header-bar span, .menu-item-has-children > a::after, .menu-item-has-children > a::before, .about-section .about-image .play-btn, .event-gift-section .image-part:after, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select .select-icon, .shop-single .product-details .product-thumb .gallery-top .shop-navigation, .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form .select-product i, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::before, .shop-single .review .review-content .review-showing .client-review .review-form .review-title h5::after, .shop-single .review .review-content .description .post-item .post-content ul li::before, .shop-product-wrap .product-item .product-thumb::after,
 .shop-product-wrap .product-list-item .product-thumb::after, .shop-product-wrap .product-item .product-thumb .product-action-link,
 .shop-product-wrap .product-list-item .product-thumb .product-action-link, .gallery-section .grid .grid-item .grid-inner:before, .gallery-section .grid .grid-item .grid-inner .grid-content {
   position: absolute;
@@ -135,11 +135,11 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
 .schedule-section,
 .speakers-section,
 .sponsor-section,
-.footer-section, .post-item-2 .post-inner .post-thumb-container, .post-item-2 .post-inner .post-thumb, .comments .comment-list .comment .com-content, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon, .shop-single .product-details, .shop-single .product-details .product-thumb .gallery-thumbs .shop-item .shop-thumb, .shop-single .review .review-content .review-showing .content li .post-thumb, .widget .widget-header, .shop-product-wrap .product-item .product-thumb,
+.footer-section, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon, .shop-single .product-details, .shop-single .product-details .product-thumb .gallery-thumbs .shop-item .shop-thumb, .shop-single .review .review-content .review-showing .content li .post-thumb, .widget .widget-header, .shop-product-wrap .product-item .product-thumb,
 .shop-product-wrap .product-list-item .product-thumb, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-thumb {
   overflow: hidden; }
 
-.lab-btn, .header-bar, .comment-respond .add-comment .comment-form .lab-btn, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon input[type="submit"], .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout input[type="submit"], .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form button, .shop-single .review .review-nav li, .shop-single .review .review-content .review-showing .client-review .review-form form button, .contact-form-wrapper .contact-form form.comment-form button.lab-btn {
+.lab-btn, .header-bar, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .coupon input[type="submit"], .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout input[type="submit"], .shop-single .product-details .product-thumb .gallery-top .shop-navigation .shop-nav, .shop-single .product-details .post-content form button, .shop-single .review .review-nav li, .shop-single .review .review-content .review-showing .client-review .review-form form button, .contact-form-wrapper .contact-form form.comment-form button.lab-btn {
   cursor: pointer; }
 
 .speaker-item .speaker-inner, .news-item .news-inner .news-thumb img, .header-section, .header-section.header-fixed, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-thumb img, .header-bar span, .shop-cart .section-wrapper .cart-top table, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select select, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select.shipping-select {
@@ -154,10 +154,10 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
 .speaker-item-2 .speaker-inner, .about-section .section-wrapper .about-btn-grp {
   justify-content: center; }
 
-.pricing-item .pricing-inner .pricing-content .get-ticket a ul, .header-wrapper, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .comments .comment-list .comment .com-content .com-title, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li {
+.pricing-item .pricing-inner .pricing-content .get-ticket a ul, .header-wrapper, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li {
   justify-content: space-between; }
 
-.pricing-item .pricing-inner .pricing-content .get-ticket a ul, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .banner-section .banner-wrapper .banner-content .event-sponsored, .comments .comment-list .comment .com-content .com-title, .shop-cart .section-wrapper .cart-top table tbody tr td.product-item, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li, .shop-product-wrap .product-item, .shop-product-wrap .product-list-item, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
+.pricing-item .pricing-inner .pricing-content .get-ticket a ul, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .banner-section .banner-wrapper .banner-content .event-sponsored, .shop-cart .section-wrapper .cart-top table tbody tr td.product-item, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box, .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li, .shop-product-wrap .product-item, .shop-product-wrap .product-list-item, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
   align-items: center; }
 
 .header-wrapper .logo a {
@@ -186,7 +186,7 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
 .pricing-item .pricing-inner .pricing-content .get-ticket a:hover ul .icon, .fore-zero .section-wrapper .zero-item .zero-content .lab-btn, .shop-cart .section-wrapper .cart-top table thead tr th, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping .outline-select .select-icon, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping button, .cart-plus-minus .dec.qtybutton, .cart-plus-minus .inc.qtybutton, .shop-single .product-details .post-content form .select-product i, .widget .widget-header h5::before {
   background: #90013A; }
 
-.primary-bg, .fore-zero .section-wrapper .zero-item, .comments, .comment-respond, .shop-cart .section-wrapper .cart-top table tbody, .shop-cart .section-wrapper .cart-bottom, .shop-single .product-details, .shop-single .review .review-nav li, .shop-single .review .review-content .review-showing .content, .shop-single .review .review-content .review-showing .client-review, .shop-single .review .review-content .description, .shop-title, .shop-product-wrap .product-item, .shop-product-wrap .product-list-item, .scholar-single-section .section-wrapper {
+.primary-bg, .fore-zero .section-wrapper .zero-item, .shop-cart .section-wrapper .cart-top table tbody, .shop-cart .section-wrapper .cart-bottom, .shop-single .product-details, .shop-single .review .review-nav li, .shop-single .review .review-content .review-showing .content, .shop-single .review .review-content .review-showing .client-review, .shop-single .review .review-content .description, .shop-title, .shop-product-wrap .product-item, .shop-product-wrap .product-list-item, .scholar-single-section .section-wrapper {
   background: #00102e; }
 
 .section-header, .speaker-item .speaker-inner, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner, .schedule-pack h5, .pricing-item .pricing-inner .pricing-header, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .fore-zero .section-wrapper .zero-item, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn a, .banner-section .banner-wrapper .banner-content, .about-section .about-image .play-btn i, .sponsor-section .all-sponsor .platinum-sponsor,
@@ -207,7 +207,7 @@ footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-c
 .section-header p, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner p, .schedule-pack h5, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .h7, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .h7, .pricing-item .pricing-inner .pricing-header p, .pricing-item .pricing-inner .pricing-content .facilites, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li p, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item:last-child, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .shop-cart .section-wrapper .cart-bottom .cart-checkout-box .cart-checkout input[type="submit"], .shop-cart .section-wrapper .cart-bottom .shiping-box .cart-overview ul li .pull-right, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget:last-child, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-content h6 {
   margin-bottom: 0px; }
 
-.pricing-item .pricing-inner .pricing-header h3, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item, .comments .comment-list .comment .com-content .com-title {
+.pricing-item .pricing-inner .pricing-header h3, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item {
   margin-bottom: 10px; }
 
 footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-title h5 {
@@ -246,7 +246,7 @@ footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-t
 .fore-zero .section-wrapper .zero-item .zero-content p, .banner-section .banner-wrapper .banner-content .countdown, .shop-cart .section-wrapper .cart-bottom .shiping-box .calculate-shiping h3, .widget, .shop-title, .shop-product-wrap .product-item, .shop-product-wrap .product-list-item {
   margin-bottom: 30px; }
 
-.event-gift-section .gift-content .register-button, .comments {
+.event-gift-section .gift-content .register-button {
   margin-top: 30px; }
 
 .header-bar {
@@ -404,7 +404,7 @@ ul {
     .section-header h2:after {
       width: 210px;
       height: 210px;
-      background: url(../images/shape/header.png);
+      background-image: url(../images/shape/header.png);
       background-size: contain;
       background-repeat: no-repeat;
       top: -85px;
@@ -416,9 +416,14 @@ ul {
     font-size: 16px;
     letter-spacing: .4rem; }
 
-.bg-image {
-  background: url("../images/event/01.png");
-  background-size: cover; }
+/* scroll bar */
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: transparent; }
+
+::-webkit-scrollbar-thumb {
+  background: #646464;
+  border-radius: 100px; }
 
 @media (min-width: 992px) {
   .shape-b {
@@ -428,7 +433,7 @@ ul {
     .shape-b:before {
       position: absolute;
       content: "";
-      background: url("../images/shape/01.png");
+      background-image: url(../images/shape/01.png);
       width: 200px;
       height: 200px;
       background-size: cover;
@@ -437,7 +442,7 @@ ul {
     .shape-b:after {
       position: absolute;
       content: "";
-      background: url("../images/shape/03.png");
+      background-image: url(../images/shape/03.png);
       width: 200px;
       height: 200px;
       background-size: cover;
@@ -450,7 +455,7 @@ ul {
     .shape-a:before {
       position: absolute;
       content: "";
-      background: url("../images/shape/01.png");
+      background-image: url(../images/shape/01.png);
       width: 200px;
       height: 200px;
       background-size: cover;
@@ -458,7 +463,7 @@ ul {
     .shape-a:after {
       position: absolute;
       content: "";
-      background: url(../images/shape/02.png);
+      background-image: url(../images/shape/02.png);
       width: 100px;
       height: 100px;
       background-size: cover;
@@ -471,7 +476,7 @@ ul {
     .shape-c:before {
       position: absolute;
       content: "";
-      background: url("../images/shape/01.png");
+      background-image: url(../images/shape/01.png);
       width: 200px;
       height: 200px;
       background-size: cover;
@@ -480,7 +485,7 @@ ul {
     .shape-c:after {
       position: absolute;
       content: "";
-      background: url(../images/shape/03.png);
+      background-image: url(../images/shape/03.png);
       width: 200px;
       height: 200px;
       background-size: cover;
@@ -488,15 +493,38 @@ ul {
       right: -10%; } }
 
 /* @@@@@@@@@@@@@  Page Header Section Start Here  @@@@@@@@@@@@@@ */
+.header-tickets {
+  background-image: url(../images/header/tickets.jpg); }
+
+.header-gallery {
+  background-image: url(../images/header/gallery.jpg); }
+
+.header-allStages {
+  background-image: url(../images/header/allstages.jpg); }
+
+.header-contact {
+  background-image: url(../images/header/contact.jpg); }
+
+.header-mainStages {
+  background-image: url(../images/header/mainstage.jpg); }
+
 .page-header {
   padding-top: 210px;
   padding-bottom: 110px;
-  background: url(../images/header/01.jpg);
-  background-size: cover; }
+  background-size: cover;
+  background-position: bottom; }
   @media (min-width: 992px) {
     .page-header {
       padding-top: 245px;
       padding-bottom: 150px; } }
+  .page-header .header-tickets {
+    background-image: url(../images/header/tickets.jpg); }
+  .page-header .header-gallery {
+    background-image: url(../images/header/gallery.jpg); }
+  .page-header .header-allStages {
+    background-image: url(../images/header/01.jpg); }
+  .page-header .header-contact {
+    background-image: url(../images/header/contact.jpg); }
   .page-header .page-header-content-area {
     z-index: 1; }
     .page-header .page-header-content-area .ph-title {
@@ -510,7 +538,7 @@ ul {
       .page-header .page-header-content-area h4:after {
         width: 210px;
         height: 210px;
-        background: url(../images/shape/header.png);
+        background-image: url(../images/shape/header.png);
         background-size: contain;
         background-repeat: no-repeat;
         top: -85px;
@@ -564,7 +592,7 @@ ul {
     left: -20px;
     width: 250px;
     height: 250px;
-    background: url(../images/speakers/bg.png);
+    background-image: url(../images/speakers/bg.png);
     z-index: -1;
     background-size: cover; }
     @media (max-width: 575px) {
@@ -620,7 +648,7 @@ ul {
       transform: translate(50px); } }
   @media (min-width: 576px) {
     .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner {
-      background: url(../images/speakers/speaker-2/shape-4.png);
+      background-image: url(../images/speakers/speaker-2/shape-4.png);
       background-size: contain;
       background-repeat: no-repeat;
       background-position: 10px 0px;
@@ -628,8 +656,7 @@ ul {
       visibility: hidden;
       transition: all .3s linear;
       transition-delay: .2s;
-      padding: 40px;
-      padding-right: 70px; } }
+      padding: 40px 70px 40px 40px; } }
 
 @media (min-width: 576px) and (max-width: 767px) {
   .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner {
@@ -641,12 +668,10 @@ ul {
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner {
-    padding: 30px;
-    padding-right: 23px; } }
+    padding: 30px 23px 30px 30px; } }
   @media (min-width: 1440px) {
     .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner {
-      padding: 40px;
-      padding-right: 70px; } }
+      padding: 40px 70px 40px 40px; } }
   .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner p {
     text-transform: uppercase; }
   @media (max-width: 575px) {
@@ -782,9 +807,9 @@ ul {
             color: #90013A; }
 
 .pricing-item .pricing-inner {
-  box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.1); }
+  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.1); }
   .pricing-item .pricing-inner .pricing-header {
-    background: url(../images/pricing-plan/01.svg);
+    background-image: url(../images/tickets/01.svg);
     background-size: cover;
     background-position: center;
     padding: 50px;
@@ -857,7 +882,7 @@ ul {
   filter: drop-shadow(0 5px 0 white); }
 
 .news-item .news-inner {
-  box-shadow: 0px 0px 20px 0px rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.1);
   border-radius: 4px; }
   .news-item .news-inner .news-thumb img {
     transition: .3s all linear; }
@@ -941,7 +966,7 @@ ul {
   .widget.widget-category .widget-wrapper li {
     padding: 0; }
     .widget.widget-category .widget-wrapper li a {
-      padding: 15px 0px;
+      padding: 15px 0;
       color: #fff; }
       .widget.widget-category .widget-wrapper li a i {
         margin-right: 5px; }
@@ -1092,10 +1117,9 @@ ul {
     .widget.recipe-categori .widget-wrapper {
       padding: 25px 15px; }
       .widget.recipe-categori .widget-wrapper .recipe-item {
-        border: 1px dotted #f0f0f0;
-        border-width: 1px;
-        border-top: none;
-        border-right: none;
+        border: 1px none;
+        border-bottom-style: dotted;
+        border-left-style: dotted;
         margin: 5px; }
   .widget.widget-event .widget-wrapper li {
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
@@ -1174,6 +1198,10 @@ ul {
   .aside-bg:after {
     width: 35%; } }
 
+@media (min-width: 1200px) {
+  .aside-bg:after {
+    width: 37%; } }
+
 @media (min-width: 1440px) {
   .aside-bg:after {
     width: 39%; } }
@@ -1207,44 +1235,6 @@ ul {
     margin-left: auto;
     display: block;
     text-align: right; }
-
-.blog-quote {
-  background: #90013A;
-  margin: 0;
-  padding: 60px 40px 50px;
-  -webkit-border-radius: 7px 7px 0 0;
-  -moz-border-radius: 7px 7px 0 0;
-  border-radius: 7px 7px 0 0; }
-  .blog-quote::before {
-    content: "";
-    display: block;
-    width: 84px;
-    height: 60px;
-    background: url(../images/qoute2.png) no-repeat center center;
-    background-size: contain;
-    margin: 0 auto 30px; }
-  .blog-quote .quotes {
-    color: #fff;
-    font-size: 20px;
-    line-height: 36px;
-    font-style: italic;
-    font-weight: 500;
-    font-family: "Poppins", sans-serif; }
-  @media (max-width: 767px) {
-    .blog-quote {
-      padding: 50px 30px 40px; }
-      .blog-quote .quotes {
-        font-size: 18px;
-        line-height: 30px; } }
-  @media (max-width: 575px) {
-    .blog-quote {
-      padding: 30px 20px 25px; }
-      .blog-quote::before {
-        height: 45px;
-        margin-bottom: 15px; }
-      .blog-quote .quotes {
-        font-size: 16px;
-        line-height: 28px; } }
 
 .tags-area {
   justify-content: center;
@@ -1399,8 +1389,7 @@ ul {
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  border: 2px solid #00102e;
-  z-index: 1; }
+  border: 2px solid #00102e; }
   .scrollToTop i {
     color: #fff;
     z-index: 1; }
@@ -1479,7 +1468,7 @@ ul {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 2, 65, 0.3); }
+  /*background: rgba($color: #000241, $alpha: .3);*/ }
 
 .post-item .post-inner {
   -webkit-transition: all 0.3s ease;
@@ -1667,7 +1656,7 @@ ul {
       width: 72px;
       height: 72px;
       display: inline-block;
-      padding: 0px; }
+      padding: 0; }
       .preloader .preloader-inner .preloader-icon span {
         position: absolute;
         display: inline-block;
@@ -1718,7 +1707,7 @@ ul {
 /*Account Section Starts Here*/
 .account-wrapper {
   border-radius: 8px;
-  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.06);
   background: #00102e;
   padding: 60px 80px;
   text-align: center;
@@ -1756,7 +1745,7 @@ ul {
     -moz-border-radius: 4px;
     border-radius: 4px;
     background: rgba(255, 255, 255, 0.1);
-    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.06);
     padding: 10px 15px;
     color: #fff;
     border: none; }
@@ -1864,7 +1853,7 @@ ul {
 /*====== Error page start here ======*/
 .fore-zero .section-wrapper .zero-item {
   padding: 60px;
-  box-shadow: 0px 0px 10px 0px rgba(144, 1, 58, 0.2);
+  box-shadow: 0 0 10px 0 rgba(144, 1, 58, 0.2);
   border-radius: 5px; }
   .fore-zero .section-wrapper .zero-item .zero-content .lab-btn {
     color: #fff;
@@ -2181,8 +2170,10 @@ ul {
 /*================*** Header Section End Here     ***===================*/
 /*======== Banner css start here  =========*/
 .banner-section {
-  background: url(../images/banner/bg.jpg);
-  background-size: cover; }
+  background-repeat: no-repeat;
+  background-image: url(../images/home/home-background.jpg);
+  background-size: cover;
+  background-position-y: bottom; }
   .banner-section .banner-wrapper {
     padding-top: 150px;
     padding-bottom: 80px; }
@@ -2328,13 +2319,23 @@ ul {
       .sponsor-section .all-sponsor .silver-sponsor {
         padding: 50px; } }
 
-.sponsor-section .lab-btn {
-  margin-top: 60px; }
+.sponsor-section .swiper-wrapper {
+  align-items: center; }
+
+.bg-image-schedule {
+  background-image: url(../images/home/schedule.jpg);
+  background-size: cover;
+  background-position: center; }
+
+.bg-image-sponsors {
+  background-image: url(../images/home/sponsors.jpg);
+  background-size: cover;
+  background-position: center; }
 
 /*Sponsor sectin end here*/
 /*======== Gift Sectin start here =========*/
 .event-gift-section .image-part:after {
-  background: url(../images/shape/01.png);
+  background-image: url(../images/shape/01.png);
   width: 200px;
   height: 200px;
   background-size: cover;
@@ -2367,540 +2368,6 @@ ul {
     margin-bottom: 30px; } }
 
 /*======== Gift Sectin end here =========*/
-.post-item-2 {
-  background-color: #00102e;
-  box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.1); }
-  .post-item-2 .post-inner {
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    transition: all 0.3s ease;
-    margin-bottom: 35px; }
-    .post-item-2 .post-inner:hover {
-      -webkit-transform: translateY(-5px);
-      -ms-transform: translateY(-5px);
-      transform: translateY(-5px); }
-      .post-item-2 .post-inner:hover .post-thumb a img {
-        -webkit-transform: scale(1.05);
-        -ms-transform: scale(1.05);
-        transform: scale(1.05); }
-    .post-item-2 .post-inner .post-thumb-container .thumb-nav {
-      top: 50%;
-      width: 50px;
-      height: 50px;
-      background-color: #f7f2e9;
-      line-height: 50px;
-      text-align: center;
-      color: #182d41;
-      font-size: 20px;
-      transform: translateY(-50%);
-      -webkit-transition: all 0.3s ease;
-      -moz-transition: all 0.3s ease;
-      transition: all 0.3s ease; }
-      @media (max-width: 575px) {
-        .post-item-2 .post-inner .post-thumb-container .thumb-nav {
-          display: none; } }
-      .post-item-2 .post-inner .post-thumb-container .thumb-nav:hover {
-        color: #fff;
-        background-color: #90013A; }
-    .post-item-2 .post-inner .post-thumb-container .thumb-next {
-      right: 20px;
-      z-index: 1; }
-    .post-item-2 .post-inner .post-thumb-container .thumb-prev {
-      left: 20px;
-      z-index: 1; }
-    .post-item-2 .post-inner .post-thumb a {
-      display: block; }
-      .post-item-2 .post-inner .post-thumb a img {
-        width: 100%;
-        -webkit-transition: all 0.3s ease;
-        -moz-transition: all 0.3s ease;
-        transition: all 0.3s ease; }
-    .post-item-2 .post-inner .post-thumb .play-btn {
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%); }
-      .post-item-2 .post-inner .post-thumb .play-btn i {
-        color: #fff;
-        display: inline-block;
-        width: 50px;
-        line-height: 50px;
-        text-align: center;
-        font-size: 1rem;
-        background-color: #90013A;
-        border-radius: 100%;
-        height: 50px;
-        z-index: 999; }
-        @media (min-width: 768px) {
-          .post-item-2 .post-inner .post-thumb .play-btn i {
-            width: 80px;
-            height: 80px;
-            line-height: 80px;
-            font-size: 1.4rem; } }
-    .post-item-2 .post-inner .post-thumb .pluse_2 {
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      left: 50%;
-      top: 50%;
-      -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-      transform: translate(-50%, -50%);
-      background: rgba(0, 0, 0, 0.1);
-      z-index: -999; }
-      .post-item-2 .post-inner .post-thumb .pluse_2::after, .post-item-2 .post-inner .post-thumb .pluse_2::before {
-        background: #fff;
-        border-radius: 50%;
-        left: 50%;
-        top: 50%;
-        margin-left: -20px;
-        margin-top: -20px;
-        z-index: -99; }
-      .post-item-2 .post-inner .post-thumb .pluse_2::after {
-        width: 70px;
-        height: 70px;
-        background: transparent;
-        margin-left: -15px;
-        margin-top: -15px; }
-      .post-item-2 .post-inner .post-thumb .pluse_2:before {
-        width: 80px;
-        height: 80px;
-        -webkit-animation: pluse_animate 3s infinite linear;
-        animation: pluse_animate 3s infinite linear;
-        -webkit-animation-delay: 1s;
-        animation-delay: 1s;
-        margin-left: 0;
-        margin-top: 0; }
-
-@keyframes play-btn-pluse {
-  0% {
-    opacity: 1;
-    -webkit-transform: translate(-50%, -50%) scale(0.3);
-    transform: translate(-50%, -50%) scale(0.3); }
-  100% {
-    opacity: 0;
-    -webkit-transform: translate(-50%, -50%) scale(2);
-    transform: translate(-50%, -50%) scale(2); } }
-    .post-item-2 .post-inner .post-thumb .meta-date {
-      top: 10px;
-      left: 10px; }
-      .post-item-2 .post-inner .post-thumb .meta-date .md-pre {
-        padding: 8px 20px;
-        background: #fff;
-        text-align: center;
-        -webkit-border-radius: 2px;
-        -moz-border-radius: 2px;
-        border-radius: 2px; }
-        .post-item-2 .post-inner .post-thumb .meta-date .md-pre h5,
-        .post-item-2 .post-inner .post-thumb .meta-date .md-pre p {
-          color: #182d41;
-          margin-bottom: 0;
-          line-height: 1; }
-        .post-item-2 .post-inner .post-thumb .meta-date .md-pre h5 {
-          margin-bottom: 5px; }
-        .post-item-2 .post-inner .post-thumb .meta-date .md-pre p {
-          font-size: 15px; }
-    .post-item-2 .post-inner .post-content {
-      padding: 30px; }
-      .post-item-2 .post-inner .post-content .post-date {
-        margin-bottom: 19px; }
-        .post-item-2 .post-inner .post-content .post-date li {
-          display: inline-block;
-          padding-right: 10px;
-          color: #bdbdbd; }
-          .post-item-2 .post-inner .post-content .post-date li:last-child {
-            padding-right: 0; }
-          .post-item-2 .post-inner .post-content .post-date li span a {
-            padding-left: 5px;
-            color: #bdbdbd; }
-            .post-item-2 .post-inner .post-content .post-date li span a:hover {
-              color: #90013A; }
-      .post-item-2 .post-inner .post-content a h3 {
-        font-weight: 700;
-        -webkit-transition: all 0.3s ease;
-        -moz-transition: all 0.3s ease;
-        transition: all 0.3s ease; }
-        .post-item-2 .post-inner .post-content a h3:hover {
-          color: #90013A; }
-      .post-item-2 .post-inner .post-content p {
-        margin-bottom: 25px;
-        color: #bdbdbd; }
-      .post-item-2 .post-inner .post-content .lab-btn {
-        background: #90013A;
-        color: #fff; }
-        .post-item-2 .post-inner .post-content .lab-btn span {
-          color: #fff; }
-      .post-item-2 .post-inner .post-content .more-com .text-btn {
-        font-weight: 500; }
-        .post-item-2 .post-inner .post-content .more-com .text-btn span {
-          font-size: 15px; }
-        .post-item-2 .post-inner .post-content .more-com .text-btn:hover span {
-          color: #90013A; }
-        .post-item-2 .post-inner .post-content .more-com .text-btn:hover i {
-          margin-left: 5px;
-          opacity: 1; }
-        .post-item-2 .post-inner .post-content .more-com .text-btn i {
-          top: 50%;
-          font-size: 13px;
-          margin-left: -10px;
-          transform: translateY(-50%);
-          opacity: 0;
-          -webkit-transition: all 0.3s ease;
-          -moz-transition: all 0.3s ease;
-          transition: all 0.3s ease; }
-      .post-item-2 .post-inner .post-content .more-com .comment-visi span {
-        padding-right: 15px;
-        color: #90013A; }
-        .post-item-2 .post-inner .post-content .more-com .comment-visi span:last-child {
-          padding-right: 0;
-          color: red; }
-        .post-item-2 .post-inner .post-content .more-com .comment-visi span a {
-          color: #555555;
-          -webkit-transition: all 0.3s ease;
-          -moz-transition: all 0.3s ease;
-          transition: all 0.3s ease; }
-          .post-item-2 .post-inner .post-content .more-com .comment-visi span a:hover {
-            color: #182d41; }
-      .post-item-2 .post-inner .post-content .qute-content {
-        padding: 30px;
-        background: #fff;
-        box-shadow: 0 5px 10px rgba(81, 70, 174, 0.27); }
-        .post-item-2 .post-inner .post-content .qute-content blockquote {
-          margin-bottom: 0;
-          padding-top: 45px; }
-          .post-item-2 .post-inner .post-content .qute-content blockquote::before {
-            width: 40px;
-            height: 40px;
-            left: 0;
-            top: 0;
-            opacity: .5;
-            color: #90013A;
-            content: "\efcd" !important;
-            font-size: 36px;
-            font-family: IcoFont !important; }
-          .post-item-2 .post-inner .post-content .qute-content blockquote::after {
-            width: 40px;
-            height: 40px;
-            right: 0;
-            bottom: 0;
-            opacity: .5;
-            color: #90013A;
-            content: "\efce" !important;
-            font-size: 36px;
-            font-family: IcoFont !important; }
-          .post-item-2 .post-inner .post-content .qute-content blockquote a {
-            -webkit-transition: all 0.3s ease;
-            -moz-transition: all 0.3s ease;
-            transition: all 0.3s ease; }
-            .post-item-2 .post-inner .post-content .qute-content blockquote a:hover {
-              color: #90013A; }
-      .post-item-2 .post-inner .post-content .meta-post p span {
-        display: inline-block;
-        padding-right: 15px; }
-        .post-item-2 .post-inner .post-content .meta-post p span::after {
-          width: 1px;
-          height: 12px;
-          right: 4px;
-          top: 50%;
-          background: #dddcdc;
-          -webkit-transform: translateY(-50%);
-          -ms-transform: translateY(-50%);
-          transform: translateY(-50%); }
-        .post-item-2 .post-inner .post-content .meta-post p span.admin-name {
-          margin-left: 5px; }
-        .post-item-2 .post-inner .post-content .meta-post p span:last-child {
-          padding-right: 0; }
-          .post-item-2 .post-inner .post-content .meta-post p span:last-child::after {
-            display: none; }
-        .post-item-2 .post-inner .post-content .meta-post p span a {
-          padding-left: 5px;
-          color: #555555; }
-          .post-item-2 .post-inner .post-content .meta-post p span a:hover {
-            color: #90013A; }
-
-.blog-single .section-wrapper .post-item-2 .post-inner {
-  margin-bottom: 0; }
-  .blog-single .section-wrapper .post-item-2 .post-inner:hover {
-    -webkit-transform: translateY(0);
-    -ms-transform: translateY(0);
-    transform: translateY(0); }
-  .blog-single .section-wrapper .post-item-2 .post-inner .post-content h4 {
-    margin-bottom: 10px; }
-  .blog-single .section-wrapper .post-item-2 .post-inner .post-content .meta-post {
-    margin-bottom: 15px; }
-    .blog-single .section-wrapper .post-item-2 .post-inner .post-content .meta-post ul li a i {
-      padding-right: 5px; }
-    .blog-single .section-wrapper .post-item-2 .post-inner .post-content .meta-post ul li a.admin {
-      padding-right: 20px; }
-  .blog-single .section-wrapper .post-item-2 .post-inner .post-content p,
-  .blog-single .section-wrapper .post-item-2 .post-inner .post-content img {
-    margin-bottom: 20px; }
-  .blog-single .section-wrapper .post-item-2 .post-inner .post-content .qute-content {
-    margin-bottom: 25px;
-    background: #fff; }
-    .blog-single .section-wrapper .post-item-2 .post-inner .post-content .qute-content p {
-      color: #90013A; }
-  .blog-single .section-wrapper .post-item-2 .post-inner .post-content img {
-    width: 100%; }
-  .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section {
-    justify-content: space-between;
-    align-items: center;
-    margin: 40px -30px -25px;
-    padding: 23px 30px 0;
-    border-top: 1px solid #f0f0f0; }
-    .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags {
-      width: calc(100% / 1); }
-      @media (max-width: 575px) {
-        .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags {
-          justify-content: center; } }
-      @media (min-width: 768px) {
-        .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags {
-          width: calc(100% / 2); } }
-      .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags li {
-        margin: 5px;
-        padding: 0; }
-        @media (min-width: 992px) {
-          .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags li:first-child {
-            margin-left: 0; } }
-        .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags li a {
-          padding: 5px 18px;
-          border: 1px solid #f0f0f0;
-          color: #182d41;
-          -webkit-border-radius: 2px;
-          -moz-border-radius: 2px;
-          border-radius: 2px; }
-          .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags li a:hover,
-          .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .tags li a .active {
-            background: #90013A;
-            color: #fff;
-            border-color: #90013A; }
-    .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .social-media {
-      margin-bottom: 0;
-      text-align: center;
-      width: calc(100% / 1);
-      margin-top: 20px; }
-      @media (min-width: 576px) {
-        .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .social-media {
-          text-align: right;
-          margin-top: 0; } }
-      @media (min-width: 768px) {
-        .blog-single .section-wrapper .post-item-2 .post-inner .post-content .tags-section .social-media {
-          width: calc(100% / 2); } }
-
-.blog-single .section-wrapper .title-border {
-  font-size: 20px;
-  color: #90013A;
-  margin: 0 0 15px 0; }
-
-.authors {
-  filter: drop-shadow(0px 2px 2px rgba(255, 255, 255, 0.06));
-  justify-content: space-between;
-  align-items: center;
-  padding: 25px;
-  margin: 30px 0;
-  background: #00102e; }
-  @media (max-width: 575px) {
-    .authors {
-      justify-content: center; } }
-  .authors .author-thumb {
-    width: 160px;
-    text-align: center;
-    border: 4px solid #90013A;
-    border-radius: 50%; }
-    .authors .author-thumb a {
-      width: 140px;
-      height: 140px;
-      -webkit-border-radius: 100%;
-      -moz-border-radius: 100%;
-      border-radius: 100%; }
-      .authors .author-thumb a img {
-        height: 100%;
-        -webkit-border-radius: 100%;
-        -moz-border-radius: 100%;
-        border-radius: 100%; }
-  .authors .author-content {
-    width: 100%;
-    margin-top: 30px;
-    text-align: center; }
-    @media (min-width: 576px) {
-      .authors .author-content {
-        width: calc(100% - 170px);
-        margin-top: 0;
-        text-align: left; } }
-    .authors .author-content h6 {
-      margin-bottom: 5px;
-      font-size: 20px; }
-    .authors .author-content p {
-      margin-bottom: 10px;
-      color: #bdbdbd; }
-    .authors .author-content .social-media {
-      margin-bottom: 0; }
-      .authors .author-content .social-media a {
-        font-size: 16px;
-        width: 30px;
-        height: 30px;
-        line-height: 30px;
-        background: transparent; }
-        .authors .author-content .social-media a.twitter {
-          color: #55acee; }
-        .authors .author-content .social-media a.behance {
-          color: #1769ff; }
-        .authors .author-content .social-media a.instagram {
-          color: #e4405f; }
-        .authors .author-content .social-media a.vimeo {
-          color: #3b5998; }
-        .authors .author-content .social-media a.linkedin {
-          color: #007bb5; }
-
-.comments {
-  filter: drop-shadow(0px 2px 2px rgba(255, 255, 255, 0.06)); }
-  .comments .comment-title {
-    padding: 30px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    color: #fff; }
-  @media (max-width: 575px) {
-    .comments .comment-list {
-      margin: 0; } }
-  .comments .comment-list .com-item {
-    padding: 30px 30px 0; }
-  .comments .comment-list .comment .com-thumb {
-    height: 50px;
-    width: 50px;
-    border: 3px solid #90013A;
-    border-radius: 50%;
-    overflow: hidden;
-    margin-right: 15px;
-    float: left;
-    margin-bottom: 15px; }
-    @media (min-width: 576px) {
-      .comments .comment-list .comment .com-thumb {
-        margin-bottom: 0; } }
-    @media (min-width: 768px) {
-      .comments .comment-list .comment .com-thumb {
-        height: 80px;
-        width: 80px; } }
-  .comments .comment-list .comment .com-content {
-    padding-bottom: 20px; }
-    @media (max-width: 575px) {
-      .comments .comment-list .comment .com-content {
-        width: 100%; } }
-    .comments .comment-list .comment .com-content .com-title .com-title-meta h6 a {
-      color: #fff;
-      -webkit-transition: all 0.3s ease;
-      -moz-transition: all 0.3s ease;
-      transition: all 0.3s ease; }
-      .comments .comment-list .comment .com-content .com-title .com-title-meta h6 a:hover {
-        color: #90013A; }
-    .comments .comment-list .comment .com-content .com-title .com-title-meta span {
-      font-size: 16px;
-      color: #bdbdbd;
-      display: inline-block;
-      margin-bottom: 5px; }
-    @media (max-width: 575px) {
-      .comments .comment-list .comment .com-content .com-title .reply {
-        margin-bottom: 10px;
-        display: inline-block; } }
-    .comments .comment-list .comment .com-content .com-title .reply .comment-reply-link {
-      font-weight: 700;
-      color: #bdbdbd;
-      padding: 3px 16px;
-      -webkit-transition: all 0.3s ease;
-      -moz-transition: all 0.3s ease;
-      transition: all 0.3s ease; }
-      .comments .comment-list .comment .com-content .com-title .reply .comment-reply-link:hover {
-        color: #90013A;
-        border-radius: 5px; }
-    .comments .comment-list .comment .com-content p {
-      color: #bdbdbd; }
-  .comments .comment-list .comment .comment-list {
-    padding: 0 20px;
-    border-top: 1px solid rgba(255, 255, 255, 0.1); }
-    @media (min-width: 576px) {
-      .comments .comment-list .comment .comment-list {
-        padding-left: 60px;
-        padding-right: 30px; } }
-    .comments .comment-list .comment .comment-list .comment {
-      list-style: none;
-      overflow: hidden;
-      padding-top: 30px; }
-      .comments .comment-list .comment .comment-list .comment:last-child {
-        border: none;
-        padding-bottom: 0px; }
-
-.comment-respond {
-  margin-top: 30px;
-  filter: drop-shadow(0px 2px 2px rgba(255, 255, 255, 0.06)); }
-  .comment-respond h6 {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    padding-bottom: 30px;
-    padding: 30px; }
-  .comment-respond .add-comment {
-    padding: 30px; }
-    .comment-respond .add-comment .comment-form {
-      justify-content: space-between; }
-      .comment-respond .add-comment .comment-form input[type="text"] {
-        color: #555555;
-        padding: 10px 15px;
-        border-radius: 4px;
-        width: 100%; }
-        @media (min-width: 576px) {
-          .comment-respond .add-comment .comment-form input[type="text"] {
-            width: calc(100% / 2 - 15px); } }
-      .comment-respond .add-comment .comment-form input,
-      .comment-respond .add-comment .comment-form textarea {
-        color: #fff;
-        border: none;
-        outline: none;
-        margin-bottom: 20px;
-        background: rgba(255, 255, 255, 0.1); }
-        .comment-respond .add-comment .comment-form input::placeholder,
-        .comment-respond .add-comment .comment-form textarea::placeholder {
-          color: #fff; }
-      .comment-respond .add-comment .comment-form textarea {
-        padding: 15px;
-        width: 100%;
-        border-radius: 4px; }
-      .comment-respond .add-comment .comment-form .lab-btn {
-        border: none;
-        outline: none;
-        margin-top: 10px;
-        -webkit-border-radius: 3px;
-        -moz-border-radius: 3px;
-        border-radius: 3px; }
-
-.article-pagination {
-  display: flex;
-  justify-content: space-between;
-  padding: 0 15px; }
-  .article-pagination .prev-article a,
-  .article-pagination .next-article a {
-    font-size: 14px;
-    font-weight: 700;
-    color: #fff;
-    text-transform: uppercase;
-    margin-bottom: 10px;
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    transition: all 0.3s ease; }
-    .article-pagination .prev-article a i,
-    .article-pagination .next-article a i {
-      font-size: 18px; }
-    .article-pagination .prev-article a:hover,
-    .article-pagination .next-article a:hover {
-      color: #90013A; }
-  .article-pagination .prev-article p,
-  .article-pagination .next-article p {
-    margin-bottom: 0;
-    color: #bdbdbd; }
-  .article-pagination .next-article {
-    text-align: right; }
-
-.blog-page .section-wrapper {
-  margin-bottom: 0; }
-  .blog-page .section-wrapper .post-item-2 .post-inner:hover {
-    -webkit-transform: translateY(0px);
-    -ms-transform: translateY(0px);
-    transform: translateY(0px); }
-
 /*@@@@@@@@@@@@@@   Cart Page Start Here  @@@@@@@@@@@@@@@@@*/
 @media (max-width: 767px) {
   .shop-cart .section-wrapper .cart-top {
@@ -3869,9 +3336,40 @@ ul {
   font-family: "Poppins", sans-serif; }
 
 .contact-form-wrapper .contact-form form.comment-form {
-  justify-content: space-between;
+  /*justify-content: space-between;*/
   width: 100%;
   margin-top: 0; }
+  .contact-form-wrapper .contact-form form.comment-form .form-group {
+    display: inline-block; }
+  .contact-form-wrapper .contact-form form.comment-form .dropdown select {
+    padding: 15px;
+    border: none;
+    outline: none;
+    background: rgba(255, 255, 255, 0.1);
+    width: 100%;
+    margin-bottom: 30px;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer; }
+  .contact-form-wrapper .contact-form form.comment-form .dropdown option {
+    background: rgba(255, 255, 255, 0.1);
+    width: 100%;
+    color: black;
+    cursor: pointer; }
+  .contact-form-wrapper .contact-form form.comment-form .dropdown:after {
+    content: '<>';
+    font: 17px "Consolas", monospace;
+    color: white;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    right: 20px;
+    top: 40px;
+    padding: 0 0 2px;
+    border-bottom: 1px solid #999;
+    position: absolute;
+    pointer-events: none; }
   .contact-form-wrapper .contact-form form.comment-form input[type="text"],
   .contact-form-wrapper .contact-form form.comment-form [type="email"] {
     padding: 15px;
@@ -3885,10 +3383,6 @@ ul {
     .contact-form-wrapper .contact-form form.comment-form input[type="text"]::placeholder,
     .contact-form-wrapper .contact-form form.comment-form [type="email"]::placeholder {
       color: rgba(255, 255, 255, 0.5); }
-    @media (min-width: 576px) {
-      .contact-form-wrapper .contact-form form.comment-form input[type="text"],
-      .contact-form-wrapper .contact-form form.comment-form [type="email"] {
-        width: calc(100% / 2 - 10px); } }
     .contact-form-wrapper .contact-form form.comment-form input[type="text"]:focus-visible,
     .contact-form-wrapper .contact-form form.comment-form [type="email"]:focus-visible {
       outline: 1px solid rgba(144, 1, 58, 0.5); }
@@ -3922,8 +3416,8 @@ ul {
     margin-bottom: 30px; }
   @media (max-width: 991px) {
     .contact-info-wrapper .contact-info-content {
-      display: flex;
-      flex-wrap: wrap; } }
+      /*display: flex;
+            flex-wrap: wrap;*/ } }
   @media (max-width: 991px) {
     .contact-info-wrapper .contact-info-content .contact-info-item {
       margin-right: 30px;
@@ -3935,9 +3429,9 @@ ul {
         margin-bottom: 0; } }
   @media (max-width: 991px) {
     .contact-info-wrapper .contact-info-content .contact-info-item .contact-info-inner {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center; }
+      /*display: flex;
+                    flex-wrap: wrap;
+                    align-items: center;*/ }
       .contact-info-wrapper .contact-info-content .contact-info-item .contact-info-inner .contact-info-thumb {
         margin-bottom: 0;
         margin-right: 15px; } }
