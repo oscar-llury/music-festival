@@ -423,6 +423,8 @@
 
             @include breakpoint(xxl) {
                 img {
+					width: 500px;
+					height: 250px;
                     max-width: none;
                 }
             }

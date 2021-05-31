@@ -637,6 +637,8 @@ ul {
       width: 50%; } }
   @media (min-width: 1440px) {
     .speaker-item-2 .speaker-inner .speaker-thumb img {
+      width: 500px;
+      height: 250px;
       max-width: none; } }
   @media (min-width: 576px) {
     .speaker-item-2 .speaker-inner .speaker-content {
@@ -3279,32 +3281,6 @@ ul {
             margin-top: 10px; }
 
 /*Team Single Page end Here*/
-/*Stages Page start Here*/
-#main {
-	width:500px;
-	height:250px;
-}
-
-#freedom {
-	width:500px;
-	height:250px;
-}
-
-#harmony {
-	width:500px;
-	height:250px;
-}
-#madness {
-	width:500px;
-	height:250px;
-}
-
-#main2 {
-	width:476px;
-	height:268px;
-}
-
-/*Stages Page end Here*/
 /*Contact Item Css Start here*/
 .contact-item {
   width: 100%;
@@ -3498,6 +3474,8 @@ footer {
       footer .footer-top .footer-top-item {
         border: 1px solid rgba(255, 255, 255, 0.1); } }
     footer .footer-top .footer-top-item .lab-inner {
+      weight: 48px;
+      height: 48px;
       display: flex;
       flex-wrap: wrap;
       align-items: center;
@@ -3569,11 +3547,6 @@ footer {
         footer .footer-bottom .footer-bottom-content p a {
           color: #90013A;
           font-weight: 700; }
-
-#insta {
-	width:48px;
-	height:48px;
-}
 
 /*Footer section End here*/
 
