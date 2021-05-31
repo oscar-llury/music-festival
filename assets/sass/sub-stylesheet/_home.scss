@@ -140,11 +140,17 @@
         }
     }
 
+	.event-gift-section padding-tb padding-b bg-image {
+		background-color: #000b2e;
+	}
+
+
     .section-header {
         text-align: left;
         @extend %ml-0;
 
         h2 {
+			background-color: #000b2e;
             &:after {
                 left: 20%;
             }
@@ -153,6 +159,7 @@
 
     .gift-content {
         p {
+			background-color: #000b2e;
             font-size: 16px;
             line-height: 1.875;
             text-align: left;
@@ -160,6 +167,7 @@
 
         .gift-list {
             .gift-item {
+				background-color: #000b2e;
                 list-style: none;
                 color: $white-color;
                 font-size: 16px;
@@ -168,6 +176,7 @@
                 text-align: left;
 
                 span {
+					background-color: #000b2e;
                     color: $theme-color;
                     @extend %mr-10;
                 }
