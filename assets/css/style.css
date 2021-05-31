@@ -3465,6 +3465,11 @@ footer {
         border-left: 1px solid rgba(255, 255, 255, 0.1); }
         footer .footer-top .col-12:last-child {
           border-right: 1px solid rgba(255, 255, 255, 0.1); } }
+  footer .footer-top .footer-social {
+    display: flex;
+    justify-content: center; }
+  footer .footer-top .footer-social a {
+    margin: 10px; }
   footer .footer-top .footer-top-item {
     padding: 15px; }
     @media (min-width: 1200px) {
