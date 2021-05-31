@@ -3279,6 +3279,32 @@ ul {
             margin-top: 10px; }
 
 /*Team Single Page end Here*/
+/*Stages Page start Here*/
+#main {
+	width:500px;
+	height:250px;
+}
+
+#freedom {
+	width:500px;
+	height:250px;
+}
+
+#harmony {
+	width:500px;
+	height:250px;
+}
+#madness {
+	width:500px;
+	height:250px;
+}
+
+#main2 {
+	width:476px;
+	height:268px;
+}
+
+/*Stages Page end Here*/
 /*Contact Item Css Start here*/
 .contact-item {
   width: 100%;
@@ -3543,6 +3569,11 @@ footer {
         footer .footer-bottom .footer-bottom-content p a {
           color: #90013A;
           font-weight: 700; }
+
+#insta {
+	width:48px;
+	height:48px;
+}
 
 /*Footer section End here*/
 
