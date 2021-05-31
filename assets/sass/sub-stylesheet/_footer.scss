@@ -31,7 +31,13 @@ footer {
                 }
             }
         }
-
+        .footer-social{
+            display: flex;
+            justify-content: center;
+        }
+        .footer-social a {
+            margin: 10px;
+        }
         .footer-top-item {
             padding: 15px;
 
