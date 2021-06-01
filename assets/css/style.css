@@ -1879,7 +1879,9 @@ ul {
     border-bottom: 1px solid rgba(144, 1, 58, 0.1);
     z-index: 999; }
     .header-section.header-fixed .header-bottom {
-      background: #000b2e; }
+      background-color: #07002D;
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px); }
 
 .header-wrapper {
   padding: 23px 0; }
@@ -3377,7 +3379,7 @@ ul {
     padding: 0 0 2px;
     border-bottom: 1px solid #999;
     position: absolute;
-   }
+    pointer-events: none; }
   .contact-form-wrapper .contact-form form.comment-form input[type="text"],
   .contact-form-wrapper .contact-form form.comment-form [type="email"] {
     padding: 15px;
@@ -3485,6 +3487,7 @@ footer {
       footer .footer-top .footer-top-item {
         border: 1px solid rgba(255, 255, 255, 0.1); } }
     footer .footer-top .footer-top-item .lab-inner {
+      weight: 48px;
       height: 48px;
       display: flex;
       flex-wrap: wrap;
