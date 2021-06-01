@@ -802,10 +802,6 @@ ul {
   .pricing-item .pricing-inner .pricing-content .facilites {
     padding: 30px 25px; }
     .pricing-item .pricing-inner .pricing-content .facilites .facility-item {
-      text-align: left;
-      list-style: none;
-      font-size: 16px;
-      color: #fff;
       padding: 6px 0; }
       .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i {
         color: #90013A;
