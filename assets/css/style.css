@@ -32,14 +32,14 @@ Tags: bootstrap, program, event, event schedule, arrangment, event site, officia
 @@@@@@@@@@@@@@@@@@@@@@ */
 @import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 /* @@@@@@@@@@@@@  Extend Property  @@@@@@@@@@@@@@ */
-.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .gallery-section .grid .grid-item .grid-inner .grid-content, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
+.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket ul, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .gallery-section .grid .grid-item .grid-inner .grid-content, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
   display: flex;
   flex-wrap: wrap; }
 
-.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .gallery-section .grid .grid-item .grid-inner {
+.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .gallery-section .grid .grid-item .grid-inner {
   position: relative; }
 
-.section-header h2:after, .page-header .page-header-content-area h4:after, .page-header .page-header-content-area ul li a::after, .speaker-item .speaker-inner .speaker-thumb:after, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape .shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb-2, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb-2, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i:after, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon:after, .widget.widget-search .search-wrapper button, .pluse_1,
+.section-header h2:after, .page-header .page-header-content-area h4:after, .page-header .page-header-content-area ul li a::after, .speaker-item .speaker-inner .speaker-thumb:after, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape .shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb-2, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb-2, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i:after, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon:after, .widget.widget-search .search-wrapper button, .pluse_1,
 .pluse_2, .pluse_1::after, .pluse_1::before,
 .pluse_2::after,
 .pluse_2::before, .overlay, .post-item .post-inner .post-thumb .meta-date, .post-item .post-inner .post-content .meta-post p span::after, .header-section, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn, .header-bar span, .menu-item-has-children > a::after, .menu-item-has-children > a::before, .about-section .about-image .play-btn, .event-gift-section .image-part:after, .gallery-section .grid .grid-item .grid-inner:before, .gallery-section .grid .grid-item .grid-inner .grid-content {
@@ -108,14 +108,14 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
 #Footer
 --------------------------------------------------------------*/
 /* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
-.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .gallery-section .grid .grid-item .grid-inner .grid-content, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
+.page-header .page-header-content-area ul, .speaker-item .speaker-inner, .speaker-item .speaker-inner .speaker-content .spkr-content-details .social-icons, .speaker-item-2 .speaker-inner, .pricing-item .pricing-inner .pricing-content .get-ticket ul, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.vat, .widget.widget-tags ul.widget-wrapper, .coming-wrapper .event-count .rounded-circle, .single-quote, .tags-area, .tags, .share, .paginations ul li a, .tags-social .tags, .tags-social .social, .account-form .form-group .checkgroup, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, .menu, .banner-section .banner-wrapper .banner-content .countdown, .banner-section .banner-wrapper .banner-content .event-sponsored, .about-section .section-wrapper .about-btn-grp, .gallery-section .grid .grid-item .grid-inner .grid-content, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
   display: flex;
   flex-wrap: wrap; }
 
-.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .gallery-section .grid .grid-item .grid-inner {
+.section-header h2, .page-header, .page-header .page-header-content-area, .page-header .page-header-content-area h4, .page-header .page-header-content-area ul li a, .speaker-item .speaker-inner .speaker-thumb, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon, .widget.widget-search .search-wrapper, .aside-bg, .lab-btn, .relative, .scrollToTop i, .post-item .post-inner .post-thumb, .post-item .post-inner .post-content .meta-post p span, .paginations ul li a, .header-wrapper .menu-area .cart-ticket .cart-icon, .header-wrapper .menu-area .cart-ticket .cart-icon a, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details, .header-bar, .menu-item-has-children > a, .about-section .about-image, .about-section .about-image .play-btn i, .event-gift-section .image-part, .gallery-section .grid .grid-item .grid-inner {
   position: relative; }
 
-.section-header h2:after, .page-header .page-header-content-area h4:after, .page-header .page-header-content-area ul li a::after, .speaker-item .speaker-inner .speaker-thumb:after, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape .shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb-2, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb-2, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i:after, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon:after, .widget.widget-search .search-wrapper button, .pluse_1,
+.section-header h2:after, .page-header .page-header-content-area h4:after, .page-header .page-header-content-area ul li a::after, .speaker-item .speaker-inner .speaker-thumb:after, .speaker-item-2 .speaker-inner .speaker-content .speaker-shape .shape, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .accor-thumb .child-thumb-2, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .accor-thumb .child-thumb-2, .pricing-item .pricing-inner .pricing-content .facilites .facility-item span i:after, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon:after, .widget.widget-search .search-wrapper button, .pluse_1,
 .pluse_2, .pluse_1::after, .pluse_1::before,
 .pluse_2::after,
 .pluse_2::before, .overlay, .post-item .post-inner .post-thumb .meta-date, .post-item .post-inner .post-content .meta-post p span::after, .header-section, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn, .header-bar span, .menu-item-has-children > a::after, .menu-item-has-children > a::before, .about-section .about-image .play-btn, .event-gift-section .image-part:after, .gallery-section .grid .grid-item .grid-inner:before, .gallery-section .grid .grid-item .grid-inner .grid-content {
@@ -144,10 +144,10 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
 .speaker-item-2 .speaker-inner, .about-section .section-wrapper .about-btn-grp {
   justify-content: center; }
 
-.pricing-item .pricing-inner .pricing-content .get-ticket a ul, .header-wrapper, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p {
+.pricing-item .pricing-inner .pricing-content .get-ticket ul, .header-wrapper, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p {
   justify-content: space-between; }
 
-.pricing-item .pricing-inner .pricing-content .get-ticket a ul, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .banner-section .banner-wrapper .banner-content .event-sponsored, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
+.pricing-item .pricing-inner .pricing-content .get-ticket ul, .header-wrapper, .header-wrapper .menu-area, .header-wrapper .menu-area .cart-ticket, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner, .banner-section .banner-wrapper .banner-content .event-sponsored, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner {
   align-items: center; }
 
 .header-wrapper .logo a {
@@ -170,16 +170,16 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
   text-overflow: ellipsis; }
 
 /* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
-.schedule-pack h5, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button, .schedule-pack .schedule-list .accordion-item .accordion-collapse .accordion-body, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .header-wrapper .menu-area .cart-ticket .cart-icon a span {
+.schedule-pack h5, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button, .schedule-pack .schedule-list .accordion-item .accordion-collapse .accordion-body, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon, .header-wrapper .menu-area .cart-ticket .cart-icon a span {
   background-color: #fff; }
 
-.pricing-item .pricing-inner .pricing-content .get-ticket a:hover ul .icon, .fore-zero .section-wrapper .zero-item .zero-content .lab-btn {
+.pricing-item .pricing-inner .pricing-content .get-ticket:hover ul .icon, .fore-zero .section-wrapper .zero-item .zero-content .lab-btn {
   background: #90013A; }
 
 .primary-bg, .fore-zero .section-wrapper .zero-item {
   background: #00102e; }
 
-.section-header, .speaker-item .speaker-inner, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner, .schedule-pack h5, .pricing-item .pricing-inner .pricing-header, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon, .fore-zero .section-wrapper .zero-item, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn a, .banner-section .banner-wrapper .banner-content, .about-section .about-image .play-btn i, .sponsor-section .all-sponsor .platinum-sponsor,
+.section-header, .speaker-item .speaker-inner, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner, .schedule-pack h5, .pricing-item .pricing-inner .pricing-header, .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon, .fore-zero .section-wrapper .zero-item, .header-wrapper .menu-area .cart-ticket .cart-icon a span, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details .close-btn a, .banner-section .banner-wrapper .banner-content, .about-section .about-image .play-btn i, .sponsor-section .all-sponsor .platinum-sponsor,
 .sponsor-section .all-sponsor .gold-sponsor,
 .sponsor-section .all-sponsor .silver-sponsor {
   text-align: center; }
@@ -188,7 +188,7 @@ Tags: community, couple, creative, dating, groups, love template, matching, memb
 footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-content p {
   margin: 0; }
 
-.section-header p, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner p, .schedule-pack h5, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .h7, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .h7, .pricing-item .pricing-inner .pricing-header p, .pricing-item .pricing-inner .pricing-content .facilites, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li p, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item:last-child, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget:last-child, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-content h6 {
+.section-header p, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner p, .schedule-pack h5, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .h7, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .h7, .pricing-item .pricing-inner .pricing-header p, .pricing-item .pricing-inner .pricing-content .facilites, .pricing-item .pricing-inner .pricing-content .get-ticket ul, .pricing-item .pricing-inner .pricing-content .get-ticket ul li p, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item:last-child, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget:last-child, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-content h6 {
   margin-bottom: 0; }
 
 .pricing-item .pricing-inner .pricing-header h3, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item {
@@ -200,7 +200,7 @@ footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-t
 .event-gift-section .section-header {
   margin-left: 0; }
 
-.pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat h4 {
+.pricing-item .pricing-inner .pricing-content .get-ticket ul li.vat h4 {
   margin-right: 5px; }
 
 .event-gift-section .gift-content .gift-list .gift-item span {
@@ -218,7 +218,7 @@ footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-t
 .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner h6, .fore-zero .section-wrapper .zero-item .zero-content, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .lab-btn {
   margin-top: 20px; }
 
-.section-header p, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner p, .schedule-pack h5, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .h7, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .h7, .pricing-item .pricing-inner .pricing-header p, .pricing-item .pricing-inner .pricing-content .facilites, .pricing-item .pricing-inner .pricing-content .get-ticket a ul, .pricing-item .pricing-inner .pricing-content .get-ticket a ul li p, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item:last-child, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget:last-child, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-content h6 {
+.section-header p, .speaker-item-2 .speaker-inner .speaker-content .speaker-content-inner p, .schedule-pack h5, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button .accor-header-inner .h7, .schedule-pack .schedule-list .accordion-item .accordion-header .accordion-button.collapsed .h7, .pricing-item .pricing-inner .pricing-header p, .pricing-item .pricing-inner .pricing-content .facilites, .pricing-item .pricing-inner .pricing-content .get-ticket ul, .pricing-item .pricing-inner .pricing-content .get-ticket ul li p, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item:last-child, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details p, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget:last-child, footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-content .fm-item-widget .lab-inner .lab-content h6 {
   margin-bottom: 0; }
 
 .speaker-item .speaker-inner .speaker-content .spkr-content-title h5, .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content .cart-list .cart-item .cart-inner .cart-details h6 {
@@ -240,7 +240,7 @@ footer .footer-middle .footer-middle-item-wrapper .footer-middle-item .fm-item-t
 .header-wrapper .menu-area .cart-ticket .cart-icon .cart-content {
   padding: 15px; }
 
-.pricing-item .pricing-inner .pricing-content .get-ticket a {
+.pricing-item .pricing-inner .pricing-content .get-ticket {
   padding: 20px; }
 
 .news-item .news-inner .news-content {
@@ -817,42 +817,41 @@ ul {
         display: none; }
   .pricing-item .pricing-inner .pricing-content .get-ticket {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 0 0 6px 6px; }
-    .pricing-item .pricing-inner .pricing-content .get-ticket a {
-      display: block; }
-      @media (min-width: 576px) {
-        .pricing-item .pricing-inner .pricing-content .get-ticket a {
-          padding: 20px 30px; } }
-      .pricing-item .pricing-inner .pricing-content .get-ticket a ul li {
-        list-style: none; }
-        .pricing-item .pricing-inner .pricing-content .get-ticket a ul li p {
-          font-family: "Arvo", serif; }
-        .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat {
-          align-items: flex-end; }
-          .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat h4 {
-            color: #E50000; }
-          .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.vat p {
-            color: #90013A !important; }
-        .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon {
-          width: 40px;
-          height: 40px;
-          line-height: 40px;
-          border-radius: 50%;
-          color: #555555;
-          transition: .2s all linear;
-          z-index: 9; }
-          .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.icon:after {
-            width: 1px;
-            height: 80px;
-            left: 50%;
-            transform: translateX(-50%);
-            top: -20px;
-            background-color: rgba(255, 255, 255, 0.1);
-            z-index: -1; }
-        .pricing-item .pricing-inner .pricing-content .get-ticket a ul li.ticket-text p {
-          font-weight: 700; }
-      .pricing-item .pricing-inner .pricing-content .get-ticket a:hover ul .icon {
-        color: #fff; }
+    border-radius: 0 0 6px 6px;
+    display: block; }
+    @media (min-width: 576px) {
+      .pricing-item .pricing-inner .pricing-content .get-ticket {
+        padding: 20px 30px; } }
+    .pricing-item .pricing-inner .pricing-content .get-ticket ul li {
+      list-style: none; }
+      .pricing-item .pricing-inner .pricing-content .get-ticket ul li p {
+        font-family: "Arvo", serif; }
+      .pricing-item .pricing-inner .pricing-content .get-ticket ul li.vat {
+        align-items: flex-end; }
+        .pricing-item .pricing-inner .pricing-content .get-ticket ul li.vat h4 {
+          color: #E50000; }
+        .pricing-item .pricing-inner .pricing-content .get-ticket ul li.vat p {
+          color: #90013A !important; }
+      .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 50%;
+        color: #555555;
+        transition: .2s all linear;
+        z-index: 9; }
+        .pricing-item .pricing-inner .pricing-content .get-ticket ul li.icon:after {
+          width: 1px;
+          height: 80px;
+          left: 50%;
+          transform: translateX(-50%);
+          top: -20px;
+          background-color: rgba(255, 255, 255, 0.1);
+          z-index: -1; }
+      .pricing-item .pricing-inner .pricing-content .get-ticket ul li.ticket-text p {
+        font-weight: 700; }
+    .pricing-item .pricing-inner .pricing-content .get-ticket:hover ul .icon {
+      color: #fff; }
 
 .pricing-item:hover .pricing-inner .pricing-header {
   filter: drop-shadow(0 5px 0 white); }
@@ -2439,11 +2438,11 @@ ul {
           color: #fff;
           border: 2px solid #fff;
           margin-bottom: 24px; }
-        .gallery-section .grid .grid-item .grid-inner .grid-content h5 {
+        .gallery-section .grid .grid-item .grid-inner .grid-content h2 {
           font-size: 20px;
           color: #c60; }
           @media (min-width: 1200px) {
-            .gallery-section .grid .grid-item .grid-inner .grid-content h5 {
+            .gallery-section .grid .grid-item .grid-inner .grid-content h2 {
               font-size: 24px; } }
         .gallery-section .grid .grid-item .grid-inner .grid-content p {
           font-size: 18px;
