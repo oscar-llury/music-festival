@@ -70,7 +70,7 @@
                     content: "";
                     width: calc(100% - 20px);
                     height: calc(100% - 20px);
-                    background-color: rgba($white-color, $alpha: .90);
+                    background-color: rgba($white-color, $alpha: 1);
                     top: 50%;
                     left: 50%;
                     transform: translate(-50%, -50%);
@@ -115,7 +115,7 @@
 
                     h5 {
                         font-size: 20px;
-                        color: $theme-color;
+                        color: $contrastblue-color;
 
                         @include breakpoint(xl) {
                             font-size: 24px;
@@ -124,7 +124,7 @@
 
                     p {
                         font-size: 18px;
-                        color: $black-color;
+                        color: $contrastblue-color;
                     }
                 }
 
