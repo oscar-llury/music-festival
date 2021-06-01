@@ -38,6 +38,7 @@
         z-index: 9 !important;
 
         &:after {
+			display:none;
             @extend %abs;
             width: 210px;
             height: 210px;

@@ -401,6 +401,7 @@ ul {
     margin-top: -10px;
     z-index: 9 !important; }
     .section-header h2:after {
+      display: none;
       width: 210px;
       height: 210px;
       background-image: url(../images/shape/header.png);
