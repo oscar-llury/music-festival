@@ -3206,13 +3206,13 @@ ul {
           margin-bottom: 24px; }
         .gallery-section .grid .grid-item .grid-inner .grid-content h5 {
           font-size: 20px;
-          color: #00102e; }
+          color: #90013A; }
           @media (min-width: 1200px) {
             .gallery-section .grid .grid-item .grid-inner .grid-content h5 {
               font-size: 24px; } }
         .gallery-section .grid .grid-item .grid-inner .grid-content p {
           font: 18px;
-          color: #182d41; }
+          color: #000000; }
       .gallery-section .grid .grid-item .grid-inner:hover:before {
         opacity: 1; }
       .gallery-section .grid .grid-item .grid-inner:hover .grid-content {

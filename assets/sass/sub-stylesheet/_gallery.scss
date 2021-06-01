@@ -115,7 +115,7 @@
 
                     h5 {
                         font-size: 20px;
-                        color: $primary-color;
+                        color: $theme-color;
 
                         @include breakpoint(xl) {
                             font-size: 24px;
@@ -124,7 +124,7 @@
 
                     p {
                         font: 18px;
-                        color: $title-color;
+                        color: $black-color;
                     }
                 }
 
