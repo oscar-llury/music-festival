@@ -69,7 +69,7 @@
         <div class="overlay"></div>
         <div class="container">
             <div class="page-header-content-area">
-                <h4 class="ph-title">Contact us</h4>
+                <h1 class="ph-title">Contact us</h1>
             </div>
         </div>
     </section>
@@ -83,7 +83,7 @@
                     <div class="col-lg-8">
                         <article class="contact-form-wrapper">
                             <div class="contact-form">
-                                <h4>Just Say Hello to us, we won't eat you</h4>
+                                <h2>Just Say Hello to us, we won't eat you</h2>
                                 <p class="mb-5">If you have any questions regarding your trip,
                                     don't hesitate to contact us! We will answer any questions related to the festival,
                                     from questions about the campsite to where you can leave your dog. Use this form for
@@ -91,20 +91,19 @@
                                 <form action="#" method="POST" id="commentform" class="row comment-form">
                                     <div class="col-6 form-group">
                                         <label for="name">Name*</label>
-                                        <input type="text" name="name" id="name" class="" placeholder="Name">
+                                        <input type="text" name="name" id="name" placeholder="Name" title="name">
                                     </div>
                                     <div class="col-6 form-group">
                                         <label for="email">Email*</label>
-                                        <input type="email" name="email" id="email" class="" placeholder="Email">
+                                        <input type="email" name="email" id="email" placeholder="Email" title="email">
                                     </div>
                                     <div class="col-6 form-group">
                                         <label for="number">Phone number*</label>
-                                        <input type="text" name="number" id="number" class=""
-                                               placeholder="Phone number">
+                                        <input type="text" name="number" id="number" placeholder="Phone number">
                                     </div>
                                     <div class="col-6 form-group dropdown">
                                         <label for="number">Subject*</label>
-                                        <select class="form-select" aria-label="Default select example">
+                                        <select class="form-select" aria-label="Default select example" title="subject">
                                             <option selected disabled>Select subject</option>
                                             <option value="tickets">Tickets</option>
                                             <option value="payment">Payment issuess</option>
@@ -114,14 +113,12 @@
                                     </div>
 
                                     <div class="col-12">
-                                        <label for="role">Message*</label>
-                                        <textarea name="text" id="role" cols="30" rows="9"
-                                                  placeholder="Message"></textarea>
+                                        <label for="message">Message*</label>
+                                        <textarea name="text" id="message" cols="30" rows="9" placeholder="Message" title="message"></textarea>
                                     </div>
                                     <div class="col-12">
-                                        <button type="submit" class="lab-btn">
-                                            <span>Send</span>
-                                        </button>
+                                        <label for="send" class="d-block">thats all from now...</label>
+                                        <button type="submit" class="lab-btn" id="send" title="send">Send</button>
                                     </div>
                                 </form>
                             </div>
@@ -130,7 +127,7 @@
                     <div class="col-lg-4">
                         <div class="contact-info-wrapper">
                             <div class="contact-info-title">
-                                <h5>Get Information</h5>
+                                <h3>Get Information</h3>
                                 <p>For business inquiries:</p>
                             </div>
                             <div class="contact-info-content">
@@ -205,6 +202,7 @@
 </div>
 <!-- ==========Main Content end Here========== -->
 
+
 <!-- Footer Section start here -->
 <footer class="footer-section"
         style="background-image: url(assets/images/bg-images/footer-bg.png); background-position: center; background-repeat: repeat-x;">
@@ -224,13 +222,15 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-12">
+                    <span>Our Social Media</span>
                     <div class="footer-top-item lab-item footer-social">
                         <a href="https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ"
-                           class="play-yt fab fa-youtube fa-2x"></a>
-                        <a href="https://twitter.com/tomorrowland" class="play-tw fab fa-twitter fa-2x"></a>
-                        <a href="https://www.facebook.com/tomorrowland" class="play-fb fab fa-facebook-f fa-2x"></a>
+                           class="play-yt fab fa-youtube fa-sm"> Youtube</a>
+                        <a href="https://twitter.com/tomorrowland" class="play-tw fab fa-twitter fa-sm"> Twitter</a>
+                        <a href="https://www.facebook.com/tomorrowland"
+                           class="play-fb fab fa-facebook-f fa-sm"> Facebook</a>
                         <a href="https://www.instagram.com/tomorrowland/?hl=es"
-                           class="play-insta fab fa-instagram fa-2x"></a>
+                           class="play-insta fab fa-instagram fa-sm"> Instagram</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-12">
