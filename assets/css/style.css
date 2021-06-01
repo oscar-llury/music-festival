@@ -2445,13 +2445,13 @@ ul {
           margin-bottom: 24px; }
         .gallery-section .grid .grid-item .grid-inner .grid-content h5 {
           font-size: 20px;
-          color: #c00; }
+          color: #c60; }
           @media (min-width: 1200px) {
             .gallery-section .grid .grid-item .grid-inner .grid-content h5 {
               font-size: 24px; } }
         .gallery-section .grid .grid-item .grid-inner .grid-content p {
           font-size: 18px;
-          color: #c00; }
+          color: #c60; }
       .gallery-section .grid .grid-item .grid-inner:hover:before {
         opacity: 1; }
       .gallery-section .grid .grid-item .grid-inner:hover .grid-content {
